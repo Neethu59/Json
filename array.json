@@ -1,0 +1,21 @@
+{"student":[
+    { "name": "ramu",   
+    "dep":  "ec" ,   
+    "college": "cetp" },
+
+    { "name": "ravi",   
+    "dep":  "cs" ,   
+    "college": "cetp" },
+
+    { "name": "rama",   
+    "dep":  "ce" ,   
+    "college": "cetp" },
+
+    { "name": "radha",   
+    "dep":  "ce" ,   
+    "college": "cetp" }
+    
+    
+    
+]
+}

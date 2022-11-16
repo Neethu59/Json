@@ -1,0 +1,26 @@
+{"songs":[
+    { "name": "fgh",   
+    "singer":  "fghj" ,   
+    "file": "hjk" ,
+    "img":"img.jpg",
+     "audio":"audio2.mp3"},
+
+    { "name": "hjkjfk",   
+    "singer":  "jj" ,   
+    "file": "hjk" ,
+    "img":"img1.jpg",
+      "audio":"audio2.mp3"},
+
+    { "name": "fgh",   
+    "singer":  "fghj" ,   
+    "file": "hjk" ,
+    "img":"img2.jpg",
+     "audio":"audio3.mp3"},
+    { "name": "fgh",   
+    "singer":  "fghj" ,   
+    "file": "hjk" ,
+    "img":"img3.jpg",
+     "audio":"audio4.mp3"}
+    
+]
+}
